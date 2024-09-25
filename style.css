@@ -41,3 +41,15 @@ li{
    margin: 1rem 0 1rem 0;
 }
 
+button{
+    padding: 10px 7px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(33, 114, 206);
+    color: white;
+}
+
+.info{
+    background-color: rgb(226, 190, 26);
+}
+
