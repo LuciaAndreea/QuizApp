@@ -62,3 +62,7 @@ button{
     font-style: italic;
 }
 
+.wrong{
+    color: red;
+    font-weight: bold;
+}
