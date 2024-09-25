@@ -50,6 +50,11 @@ button{
     color: white;
 }
 
+button:hover{
+    cursor: pointer;
+    box-shadow:0 0 7px 0 rgba(0,0,0,0.4) ;
+}
+
 .info{
     background-color: rgb(226, 190, 26);
 }
